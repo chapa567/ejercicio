@@ -1,0 +1,2 @@
+# ejercicio
+repositorio de ejercicio
